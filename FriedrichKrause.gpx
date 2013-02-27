@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="http://gpso.de/maps/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <wpt lat="52.53751" lon="13.3595">
+        <ele>35.7</ele>
+        <name>WP01-A</name>
+    </wpt>
+    <wpt lat="52.53762" lon="13.35901">
+        <ele>35.5</ele>
+        <name>WP02-B</name>
+    </wpt>
+    <wpt lat="52.5377" lon="13.3587">
+        <ele>34.2</ele>
+        <name>WP03-C</name>
+    </wpt>
+    <wpt lat="52.53774" lon="13.3585">
+        <ele>34.1</ele>
+        <name>WP04-D</name>
+    </wpt>
+    <wpt lat="52.53779" lon="13.35834">
+        <ele>34.4</ele>
+        <name>WP05-E</name>
+    </wpt>
+    <wpt lat="52.53785" lon="13.35808">
+        <ele>35</ele>
+        <name>WP06-F</name>
+    </wpt>
+    <wpt lat="52.53791" lon="13.3579">
+        <ele>34.9</ele>
+        <name>WP07-G</name>
+    </wpt>
+    <wpt lat="52.53794" lon="13.35777">
+        <ele>34.7</ele>
+        <name>WP08-H</name>
+    </wpt>
+    <wpt lat="52.53803" lon="13.3575">
+        <ele>33.7</ele>
+        <name>WP09-I</name>
+    </wpt>
+    <wpt lat="52.53807" lon="13.35729">
+        <ele>33.5</ele>
+        <name>WP10-J</name>
+    </wpt>
+    <wpt lat="52.53814" lon="13.35715">
+        <ele>33.4</ele>
+        <name>WP11-K</name>
+    </wpt>
+    <wpt lat="52.53829" lon="13.35672">
+        <ele>33.5</ele>
+        <name>WP12-L</name>
+    </wpt>
+    <wpt lat="52.53834" lon="13.35628">
+        <ele>33.8</ele>
+        <name>WP13-M</name>
+    </wpt>
+    <wpt lat="52.53842" lon="13.35619">
+        <ele>33.8</ele>
+        <name>WP14-N</name>
+    </wpt>
+    <wpt lat="52.5385" lon="13.35594">
+        <ele>33.8</ele>
+        <name>WP15-O</name>
+    </wpt>
+    <wpt lat="52.53855" lon="13.3558">
+        <ele>33.9</ele>
+        <name>WP16-P</name>
+    </wpt>
+    <wpt lat="52.53859" lon="13.35554">
+        <ele>33.9</ele>
+        <name>WP17-Q</name>
+    </wpt>
+    <wpt lat="52.53873" lon="13.35504">
+        <ele>34.2</ele>
+        <name>WP18-R</name>
+    </wpt>
+    <wpt lat="52.5388" lon="13.35469">
+        <ele>34.6</ele>
+        <name>WP19-S</name>
+    </wpt>
+    <wpt lat="52.53887" lon="13.35412">
+        <ele>34.8</ele>
+        <name>WP20-T</name>
+    </wpt>
+    <wpt lat="52.53885" lon="13.35377">
+        <ele>34.7</ele>
+        <name>WP21-U</name>
+    </wpt>
+    <wpt lat="52.53886" lon="13.35359">
+        <ele>34.7</ele>
+        <name>WP22-V</name>
+    </wpt>
+    <wpt lat="52.53888" lon="13.35322">
+        <ele>34.9</ele>
+        <name>WP23-W</name>
+    </wpt>
+    <wpt lat="52.53884" lon="13.35292">
+        <ele>35.3</ele>
+        <name>WP24-X</name>
+    </wpt>
+    <wpt lat="52.53881" lon="13.35266">
+        <ele>35.6</ele>
+        <name>WP25-Y</name>
+    </wpt>
+    <wpt lat="52.53868" lon="13.35223">
+        <ele>35.8</ele>
+        <name>WP26-Z</name>
+    </wpt>
+    <wpt lat="52.53856" lon="13.35166">
+        <ele>36.2</ele>
+        <name>WP27</name>
+    </wpt>
+    <wpt lat="52.53846" lon="13.35127">
+        <ele>36.7</ele>
+        <name>WP28</name>
+    </wpt>
+    <wpt lat="52.53835" lon="13.35085">
+        <ele>36.2</ele>
+        <name>WP29</name>
+    </wpt>
+    <wpt lat="52.53827" lon="13.35041">
+        <ele>36.5</ele>
+        <name>WP30</name>
+    </wpt>
+    <wpt lat="52.53814" lon="13.34981">
+        <ele>36.5</ele>
+        <name>WP31</name>
+    </wpt>
+    <wpt lat="52.53809" lon="13.34943">
+        <ele>36.3</ele>
+        <name>WP32</name>
+    </wpt>
+    <wpt lat="52.53801" lon="13.34891">
+        <ele>36.2</ele>
+        <name>WP33</name>
+    </wpt>
+    <wpt lat="52.53793" lon="13.34828">
+        <ele>35.9</ele>
+        <name>WP34</name>
+    </wpt>
+    <wpt lat="52.53786" lon="13.34753">
+        <ele>39.3</ele>
+        <name>WP35</name>
+    </wpt>
+    <wpt lat="52.53789" lon="13.34686">
+        <ele>36.5</ele>
+        <name>WP36</name>
+    </wpt>
+    <wpt lat="52.53799" lon="13.34626">
+        <ele>36.3</ele>
+        <name>WP37</name>
+    </wpt>
+    <wpt lat="52.53807" lon="13.34577">
+        <ele>36.9</ele>
+        <name>WP38</name>
+    </wpt>
+    <wpt lat="52.53808" lon="13.3456">
+        <ele>36.5</ele>
+        <name>WP39</name>
+    </wpt>
+    <wpt lat="52.5381" lon="13.34555">
+        <ele>36.4</ele>
+        <name>WP40</name>
+    </wpt>
+    <wpt lat="52.53818" lon="13.3451">
+        <ele>36.6</ele>
+        <name>WP41</name>
+    </wpt>
+    <wpt lat="52.53818" lon="13.34486">
+        <ele>36.7</ele>
+        <name>WP42</name>
+    </wpt>
+    <wpt lat="52.53852" lon="13.35614">
+        <ele>36.7</ele>
+        <name>WP43</name>
+    </wpt>
+</gpx>

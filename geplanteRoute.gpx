@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Bernhard Gaul http://www.bernhard-gaul.de" version="1.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+<name>Strecke</name>
+  <trkseg>
+    <trkpt lat="52.536691" lon="13.361135"><ele>36.10</ele> </trkpt>
+    <trkpt lat="52.537787" lon="13.358860"><ele>33.21</ele> </trkpt>
+    <trkpt lat="52.538361" lon="13.356714"><ele>33.44</ele> </trkpt>
+    <trkpt lat="52.538857" lon="13.354654"><ele>34.69</ele> </trkpt>
+    <trkpt lat="52.53844" lon="13.350964"><ele>36.61</ele> </trkpt>
+    <trkpt lat="52.5381" lon="13.348346"><ele>34.88</ele> </trkpt>
+    <trkpt lat="52.538257" lon="13.344870"><ele>36.20</ele> </trkpt>
+  </trkseg>
+</trk>
+</gpx>

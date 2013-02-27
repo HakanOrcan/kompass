@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MEDIA-TOURS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+<name>friedrTrack</name>
+<extensions><gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+<trkseg>
+<trkpt lat="52.53740853539571" lon=" 13.360158205032348"></trkpt>
+<trkpt lat="52.53757657295214" lon=" 13.359538614749908"></trkpt>
+<trkpt lat="52.537651618643366" lon=" 13.35926502943039"></trkpt>
+<trkpt lat="52.53774624128864" lon=" 13.358851969242096"></trkpt>
+<trkpt lat="52.537816392428496" lon=" 13.358589112758636"></trkpt>
+<trkpt lat="52.53786859785515" lon=" 13.358369171619415"></trkpt>
+<trkpt lat="52.53793711738346" lon=" 13.358181416988372"></trkpt>
+<trkpt lat="52.53800889963175" lon=" 13.357931971549987"></trkpt>
+<trkpt lat="52.538059473418" lon=" 13.35777372121811"></trkpt>
+</trkseg></trk>
+</gpx>

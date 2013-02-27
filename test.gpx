@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MEDIA-TOURS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>test</name>
+<rtept lat="52.537095298622255" lon=" 13.359932899475098">
+<name>test_0</name>
+</rtept>
+<rtept lat="52.537154030687525" lon=" 13.360061645507812">
+<name>test_1</name>
+</rtept>
+<rtept lat="52.53719216804171" lon=" 13.360142856695347">
+<name>test_2</name>
+</rtept>
+<rtept lat="52.53730636895558" lon=" 13.3603145180723">
+<name>test_3</name>
+</rtept>
+<rtept lat="52.53744667252884" lon=" 13.360008746244603">
+<name>test_4</name>
+</rtept>
+<rtept lat="52.537498878395155" lon=" 13.359858542539769">
+<name>test_5</name>
+</rtept>
+<rtept lat="52.537538032754114" lon=" 13.359665423490696">
+<name>test_6</name>
+</rtept>
+<rtept lat="52.53757718707819" lon=" 13.359536677457982">
+<name>test_7</name>
+</rtept>
+<rtept lat="52.53772075263436" lon=" 13.358935117721558">
+<name>test_8</name>
+</rtept>
+<rtept lat="52.53779906092166" lon=" 13.35862934589386">
+<name>test_9</name>
+</rtept>
+<rtept lat="52.537867580558476" lon=" 13.358334302902222">
+<name>test_10</name>
+</rtept>
+<rtept lat="52.53792957442349" lon=" 13.35812509059906">
+<name>test_11</name>
+</rtept>
+<rtept lat="52.53800461951133" lon=" 13.357910513877869">
+<name>test_12</name>
+</rtept>
+<rtept lat="52.53836679182768" lon=" 13.356741070747375">
+<name>test_13</name>
+</rtept>
+<rtept lat="52.53843531057845" lon=" 13.356467485427856">
+<name>test_14</name>
+</rtept>
+<rtept lat="52.53850382922233" lon=" 13.356236815452576">
+<name>test_15</name>
+</rtept>
+<rtept lat="52.53856255940336" lon=" 13.355984687805176">
+<name>test_16</name>
+</rtept>
+<rtept lat="52.538836632542825" lon=" 13.354954719543457">
+<name>test_17</name>
+</rtept>
+<rtept lat="52.53892146435831" lon=" 13.35436999797821">
+<name>test_18</name>
+</rtept>
+<rtept lat="52.53896388020455" lon=" 13.353726267814636">
+<name>test_19</name>
+</rtept>
+<rtept lat="52.53896388020455" lon=" 13.353538513183594">
+<name>test_20</name>
+</rtept>
+<rtept lat="52.538699596186966" lon=" 13.352047204971313">
+<name>test_21</name>
+</rtept>
+<rtept lat="52.538595187247786" lon=" 13.351516127586365">
+<name>test_22</name>
+</rtept>
+<rtept lat="52.53846467572464" lon=" 13.350958228111267">
+<name>test_23</name>
+</rtept>
+</rte>
+</gpx>

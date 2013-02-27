@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MEDIA-TOURS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+<name>FriedrichKrause</name>
+<extensions><gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+<trkseg>
+<trkpt lat="52.53384207209291" lon=" 13.35326224565506"></trkpt>
+<trkpt lat="52.533980755173346" lon=" 13.353538513183594"></trkpt>
+<trkpt lat="52.53406722793123" lon=" 13.353696763515472"></trkpt>
+<trkpt lat="52.534148805848595" lon=" 13.35387110710144"></trkpt>
+<trkpt lat="52.534223857398686" lon=" 13.354029357433319"></trkpt>
+<trkpt lat="52.534274435544894" lon=" 13.35415005683899"></trkpt>
+<trkpt lat="52.534339697582936" lon=" 13.354286849498749"></trkpt>
+<trkpt lat="52.53443759045815" lon=" 13.354477286338806"></trkpt>
+<trkpt lat="52.5345028522537" lon=" 13.35462212562561"></trkpt>
+<trkpt lat="52.53461216554396" lon=" 13.35476964712143"></trkpt>
+<trkpt lat="52.53471984702649" lon=" 13.355013728141785"></trkpt>
+<trkpt lat="52.5348944209901" lon=" 13.355316817760468"></trkpt>
+<trkpt lat="52.53506736273697" lon=" 13.355657458305359"></trkpt>
+<trkpt lat="52.535189726769055" lon=" 13.355906903743744"></trkpt>
+<trkpt lat="52.53527619714608" lon=" 13.356081247329712"></trkpt>
+<trkpt lat="52.53539366606473" lon=" 13.356309235095978"></trkpt>
+<trkpt lat="52.535454031914576" lon=" 13.356437981128693"></trkpt>
+<trkpt lat="52.53554702779109" lon=" 13.356604278087616"></trkpt>
+<trkpt lat="52.535729755957206" lon=" 13.356955647468567"></trkpt>
+<trkpt lat="52.53593206125411" lon=" 13.357355296611786"></trkpt>
+<trkpt lat="52.53612457671948" lon=" 13.357795178890228"></trkpt>
+<trkpt lat="52.53626488406922" lon=" 13.358095586299896"></trkpt>
+<trkpt lat="52.536383981816606" lon=" 13.358347713947296"></trkpt>
+<trkpt lat="52.53653244567949" lon=" 13.35864543914795"></trkpt>
+<trkpt lat="52.536780428155055" lon=" 13.359206020832062"></trkpt>
+<trkpt lat="52.5370006745741" lon=" 13.359675407409668"></trkpt>
+<trkpt lat="52.537127927557094" lon=" 13.359962403774261"></trkpt>
+<trkpt lat="52.53718829102262" lon=" 13.360069692134857"></trkpt>
+<trkpt lat="52.53723070854334" lon=" 13.360163569450378"></trkpt>
+<trkpt lat="52.537315543461844" lon=" 13.360316455364227"></trkpt>
+<trkpt lat="52.53740853539571" lon=" 13.360166251659393"></trkpt>
+<trkpt lat="52.53746563560837" lon=" 13.359951674938202"></trkpt>
+<trkpt lat="52.5375145785887" lon=" 13.35976928472519"></trkpt>
+<trkpt lat="52.53755210150334" lon=" 13.359613716602325"></trkpt>
+<trkpt lat="52.53758473009872" lon=" 13.35951179265976"></trkpt>
+<trkpt lat="52.53761083295753" lon=" 13.359412550926208"></trkpt>
+<trkpt lat="52.53763856722802" lon=" 13.359262347221375"></trkpt>
+<trkpt lat="52.53770708711534" lon=" 13.35901826620102"></trkpt>
+<trkpt lat="52.537752766980795" lon=" 13.358833193778992"></trkpt>
+<trkpt lat="52.53777234405145" lon=" 13.358720541000366"></trkpt>
+<trkpt lat="52.537795183956156" lon=" 13.358658850193024"></trkpt>
+<trkpt lat="52.53780823532497" lon=" 13.358556926250458"></trkpt>
+<trkpt lat="52.53786859785515" lon=" 13.35838258266449"></trkpt>
+<trkpt lat="52.53791101471861" lon=" 13.358189463615417"></trkpt>
+<trkpt lat="52.5379566943719" lon=" 13.35800975561142"></trkpt>
+<trkpt lat="52.53799584832261" lon=" 13.357881009578705"></trkpt>
+<trkpt lat="52.53806599906362" lon=" 13.357703983783722"></trkpt>
+<trkpt lat="52.53810678432662" lon=" 13.35751622915268"></trkpt>
+<trkpt lat="52.53813288687508" lon=" 13.357414305210114"></trkpt>
+<trkpt lat="52.538160620815816" lon=" 13.357336521148682"></trkpt>
+</trkseg></trk>
+</gpx>
